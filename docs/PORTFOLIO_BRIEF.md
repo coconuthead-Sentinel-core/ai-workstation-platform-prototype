@@ -11,7 +11,7 @@
 Canonical public name: **SentinelForge AI**.
 GitHub repo slug: `SentinelForge-AI`.
 Canon entry: #9 in the proprietor's `PROJECT_NAMING_CANON.md`.
-Predecessor: `Sentinel Forge A1` (canon #2, frozen in Completed projects archive). The fork-then-freeze pattern preserves the predecessor as historical evidence while the successor evolves publicly.
+Predecessor: `Sentinel Prime Network` (canon #2, frozen in Completed projects archive). The fork-then-freeze pattern preserves the predecessor as historical evidence while the successor evolves publicly.
 
 ## Role demonstrated
 
@@ -48,7 +48,7 @@ Within the proprietor's nine-project canon, SentinelForge AI sits between the li
 - `Sentinel-of-sentinel-s-Forge` (canon #1) shows enterprise-grade feature integration
 - `Quantum Nexus Forge` (canon #3) shows a multi-agent orchestration MVP
 - `Enterprise AI Reliability Platform v1` (canon #5) shows production-grade NIST AI RMF compliance
-- `Sentinel Forge A1` (canon #2, predecessor) shows the local-first scaffold from which SentinelForge AI was forked
+- `Sentinel Prime Network` (canon #2, predecessor) shows the local-first scaffold from which SentinelForge AI was forked
 - **`SentinelForge AI` (canon #9)** publicly continues the scaffold's evolution
 
 Together, these artifacts show the same architectural instincts at different levels of maturity and exposure.
